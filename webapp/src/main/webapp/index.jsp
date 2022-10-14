@@ -10,6 +10,7 @@
 <label for="confirm"><b>Confirm Password</b></label>
 <input type="password" placeholder="Confirm Password" name="confirm">
 <hr>
+<hr>
 <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
 <button type="submit" class="registerbtn"><strong>Register</strong></button>
 </div>
